@@ -1,8 +1,11 @@
 # ProjetoBD_Inseguranca_Alimentar
 
 Grupo K
+
 Lucas Rafael Mendes Santos - 200023021
+
 Nikolas Negrão Pessoa - 202024722
+
 William Alves Virissimo - 232031307
 
 Este documento descreve, em tópicos, as funcionalidades principais do sistema desenvolvido em Python
