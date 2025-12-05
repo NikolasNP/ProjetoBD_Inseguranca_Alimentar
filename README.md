@@ -24,6 +24,10 @@ com Tkinter e MySQL para gestão de dados relacionados ao projeto de Inseguranç
 • Carregamento do perfil do usuário (Administrador, Pesquisador etc.).
 • Controle de acesso às funcionalidades conforme o perfil.
 
+Exemplo de usuário de acesso:
+login: ana_silva
+senha: $2y$10$HASH1
+
 
 ## 3. Painel Principal
 
